@@ -94,6 +94,14 @@ In comparison, an SRS predicts the successive elements given a sequence of histo
 - https://paperswithcode.com/paper/tagnn-target-attentive-graph-neural-networks
 - https://github.com/CRIPAC-DIG/TAGNN (Official, PyTorch)
 
+#### [SIGIR'20, GCE-GNN: Global Context Enhanced Graph Neural Network for Session-based Recommendation](https://dl.acm.org/doi/10.1145/3397271.3401142)
+- https://paperswithcode.com/paper/global-context-enhanced-graph-neural-networks
+- https://github.com/CCIIPLab/GCE-GNN (Official, PyTorch)
+
 #### [AAAI'21, DHCN, Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/16578)
 - https://paperswithcode.com/paper/self-supervised-hypergraph-convolutional
 - https://github.com/xiaxin1998/DHCN (**_Official_**, PyTorch)
+
+#### [CIKM'21, COTREC, Self-Supervised Graph Co-Training for Session-based Recommendation](https://arxiv.org/abs/2108.10560)
+- https://github.com/xiaxin1998/COTREC (**_Official_**, PyTorch)
+
